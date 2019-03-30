@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/DOAProject.dir/main.c.o CMakeFiles/DOAProject.dir/index.c.o CMakeFiles/DOAProject.dir/list.c.o CMakeFiles/DOAProject.dir/query.c.o CMakeFiles/DOAProject.dir/heap.c.o  -o DOAProject 

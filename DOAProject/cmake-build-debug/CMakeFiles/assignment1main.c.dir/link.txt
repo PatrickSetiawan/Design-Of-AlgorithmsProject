@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/assignment1main.c.dir/index.c.o CMakeFiles/assignment1main.c.dir/list.c.o CMakeFiles/assignment1main.c.dir/query.c.o CMakeFiles/assignment1main.c.dir/heap.c.o  -o assignment1main.c 

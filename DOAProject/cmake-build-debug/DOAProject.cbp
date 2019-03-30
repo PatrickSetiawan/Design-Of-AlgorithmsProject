@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DOAProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOAProject">
+				<Option output="/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/DOAProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 DOAProject"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOAProject/fast">
+				<Option output="/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/DOAProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 DOAProject/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/patricksetiawan/CLionProjects/DOAProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/heap.c">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/heap.h">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/index.c">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/index.h">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/list.c">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/list.h">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/main.c">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/query.c">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/query.h">
+			<Option target="DOAProject"/>
+		</Unit>
+		<Unit filename="/Users/patricksetiawan/CLionProjects/DOAProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
